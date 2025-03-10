@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 58
+  controlID: 70
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 59
+  controlID: 71
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 60
+  controlID: 72
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 49
+  controlID: 73
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -436,10 +436,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 50}
-      m_SelectedIDs: c27f0000
+      scrollPos: {x: 0, y: 226}
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c698ffffd69effff02a1fffffea6ffff28a9ffff4aabffff42aeffffb0b1ffff42b8ffffaacfffff34f7ffff0efbffff
+      m_ExpandedIDs: 40f1ffffbcf3ffff0cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -925,7 +925,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -153.33646, y: 90.13479, z: 4.0278287}
     speed: 2
-    m_Value: {x: -153.33646, y: 90.13479, z: 4.0278287}
+    m_Value: {x: 164.49, y: 22.88, z: 140.15}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -973,11 +973,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.17577153, y: -0.680094, z: 0.173157, w: -0.6903671}
     speed: 2
-    m_Value: {x: -0.17602988, y: -0.6790531, z: 0.17289197, w: -0.69138175}
+    m_Value: {x: -0.17577034, y: -0.68008935, z: 0.17315583, w: -0.6903624}
   m_Size:
     m_Target: 11.925186
     speed: 2
-    m_Value: 11.925186
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1047,7 +1047,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Assets/Environment/Den
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1055,16 +1055,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Assets/Environment/Den
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jayga\OneDrive\Documents\GitHub\noMAD\noMad_POC
+  m_LastProjectPath: C:\Users\jayga\OneDrive\Documents\GitHub\New_NoMad\noMAD_3\noMad_POC
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 14.200012}
-    m_SelectedIDs: 887f0000
-    m_LastClickedID: 32648
-    m_ExpandedIDs: 000000006e7f000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 59}
+    m_SelectedIDs: 968d0000
+    m_LastClickedID: 36246
+    m_ExpandedIDs: 00000000e2810000f28100008e8d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1092,7 +1092,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e7f0000
+    m_ExpandedIDs: 00000000e2810000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
